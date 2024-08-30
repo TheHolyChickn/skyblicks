@@ -1,0 +1,114 @@
+
+[patcher]
+	compact_chat_fix = false
+	custom_image_preview_domains = false
+	custom_domains = ""
+
+[cleanup]
+
+	[cleanup.tablist]
+		remove_tablist_header = false
+		remove_tablist_footer = false
+
+	[cleanup.co-op]
+		collection_tooltips = 0
+		co-op_travel_messages = false
+		auction_creation = 0
+		auction_collections = 0
+		auction_cancellations = 0
+		beacon_stat_changes = 0
+
+	[cleanup.lore]
+		remove_reforge_stat_bonuses = false
+		"remove_pet_\"§6held_item:_§r\"_prefix_in_the_pet_menu" = false
+		remove_reforge_abilities = false
+		remove_recombobulated_obfuscated_text = false
+		"remove_pet_lore's_\"§cclick_to_despawn!§r\"_line_in_the_pet_menu" = false
+		remove_co-op_soulbound_text = false
+		"remove_pet_lore's_\"§b§lmax_level§r\"_line_in_the_pet_menu" = false
+		"remove_pet_lore's_empty_lines_in_the_pet_menu" = false
+		remove_gear_score = false
+		remove_item_abilities = false
+		remove_armor_piece_bonuses = false
+		remove_solo_soulbound_text = false
+		auction_house_exception = false
+		remove_gemstone_icons = false
+		remove_gemstone_stat_bonuses = false
+		remove_pet_type_text_in_the_pet_menu = 0
+		remove_enchantments_and_reforge_abilities = false
+		"remove_pet_lore's_\"§eclick_to_summon!§r\"_line_in_the_pet_menu" = false
+		"remove_\"§7lvl§r\"_from_pet_names_in_the_pet_menu" = false
+		remove_hpb_stat_bonuses = false
+		remove_armor_full_set_bonuses = false
+		remove_dungeon_stat_bonuses = false
+		"compact_pet_lore's_\"§a(x/10)_pet_candy_used§r\"_line_in_the_pet_menu" = true
+		remove_enchantment_descriptions = false
+		remove_pet_perk_names_in_the_pet_menu = false
+
+	[cleanup.chat]
+		remove_old_reforge_messages = false
+
+	[cleanup.dungeon]
+		remove_dungeon_silverfish_messages = false
+		remove_dungeon_class_message = false
+		remove_dungeon_potion_effects_message = false
+		remove_dungeon_blessing_messages = false
+		remove_dungeon_blessing_stats_messages = false
+		remove_dungeon_watcher_messages = false
+		remove_dungeon_ultimate_message = false
+		remove_dungeon_key_usage_messages = false
+
+[future_features]
+	chunk_borders = false
+	keep_sent_messages = false
+
+[utilities]
+	transfer_chat = false
+	backpack_retexturing = false
+	bestiary_glance = false
+	wishingcompass_helper = true
+	visible_links = false
+	chat_search_mode = true
+	parse_burrow_arrow = false
+	search_scroll = false
+	superpairs_ids = false
+	better_wither_impact_perspective = true
+	always_display_wishing_compass_uses_left = false
+	block_triangulation_item = false
+	better_perspective = true
+	colorless_panes = false
+	resize_chat = false
+	drop_chance_to_drop_rate = 0
+	container_control = false
+	burrow_waypoint_color = "255,255,0,0"
+	hotm_perk_level_display = false
+	container_chat = false
+	reopen_chat = false
+	wishingcompass_waypoints = true
+	chat_search_instant_refresh = false
+	display_wishing_compass_uses_left = false
+	armadillo_fix = false
+	chat_in_portal = true
+	ancestralspade_helper = false
+	hotm_max_perk_display = false
+	burrow_waypoints = false
+
+	[utilities.optifine]
+		custom_cape = ""
+		"hide_santa/witch_hat" = false
+		trans_yeti = true
+		trans_terracotta = true
+		candy_cane_grinch = false
+		non_binary_bonzo = false
+
+	[utilities.share]
+		share_text = "[item]"
+		share_scroll = false
+		share_copy_embed = false
+
+	[utilities.bridge]
+		better_bridge_message = true
+		bridge_bot_name = "NecronBridge"
+		bridge_message_format = "&2Guild > &6[MVP&0++&6] &3<ign> &e[BRIDGE]&f:<msg> "
+		bridge_guild_chat_tab = true
+
