@@ -1,0 +1,1416 @@
+{
+    "categories": [
+        {
+            "name": "lava puzzle mirrorverse part 6",
+            "waypoints": [
+                {
+                    "name": "51",
+                    "x": -189,
+                    "y": 42,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683347074978
+                },
+                {
+                    "name": "55",
+                    "x": -205,
+                    "y": 40,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683347148378
+                },
+                {
+                    "name": "57",
+                    "x": -205,
+                    "y": 42,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683347178927
+                },
+                {
+                    "name": "53",
+                    "x": -197,
+                    "y": 38,
+                    "z": -92,
+                    "enabled": false,
+                    "addedAt": 1683347126780
+                },
+                {
+                    "name": "52",
+                    "x": -193,
+                    "y": 41,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683347111178
+                },
+                {
+                    "name": "54",
+                    "x": -201,
+                    "y": 39,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683347137328
+                },
+                {
+                    "name": "56",
+                    "x": -209,
+                    "y": 41,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683347160928
+                },
+                {
+                    "name": "59",
+                    "x": -197,
+                    "y": 42,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683347213428
+                },
+                {
+                    "name": "60",
+                    "x": -201,
+                    "y": 39,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683347227583
+                },
+                {
+                    "name": "58",
+                    "x": -201,
+                    "y": 42,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683347199181
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "carrot farming",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 38,
+                    "y": 68,
+                    "z": 34,
+                    "enabled": false,
+                    "addedAt": 1684478948366
+                },
+                {
+                    "name": "",
+                    "x": 46,
+                    "y": 69,
+                    "z": 39,
+                    "enabled": false,
+                    "addedAt": 1684478937714
+                },
+                {
+                    "name": "",
+                    "x": 1,
+                    "y": 69,
+                    "z": 21,
+                    "enabled": false,
+                    "addedAt": 1684478714914
+                },
+                {
+                    "name": "",
+                    "x": 12,
+                    "y": 69,
+                    "z": 23,
+                    "enabled": false,
+                    "addedAt": 1684478971764
+                },
+                {
+                    "name": "",
+                    "x": 18,
+                    "y": 70,
+                    "z": 33,
+                    "enabled": false,
+                    "addedAt": 1684478962165
+                },
+                {
+                    "name": "",
+                    "x": -1,
+                    "y": 69,
+                    "z": 9,
+                    "enabled": false,
+                    "addedAt": 1684478687168
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "quest steps",
+            "waypoints": [
+                {
+                    "name": "pet first step",
+                    "x": -93,
+                    "y": 69,
+                    "z": 112,
+                    "enabled": false,
+                    "addedAt": 1683236626019
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "glyph",
+            "waypoints": [
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "laser room",
+            "waypoints": [
+                {
+                    "name": "14",
+                    "x": -300,
+                    "y": 28,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468177027
+                },
+                {
+                    "name": "1",
+                    "x": -304,
+                    "y": 2,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684467601522
+                },
+                {
+                    "name": "4",
+                    "x": -304,
+                    "y": 8,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1684467714718
+                },
+                {
+                    "name": "12",
+                    "x": -306,
+                    "y": 24,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1684468108721
+                },
+                {
+                    "name": "16",
+                    "x": -306,
+                    "y": 32,
+                    "z": -105,
+                    "enabled": false,
+                    "addedAt": 1684468217569
+                },
+                {
+                    "name": "26",
+                    "x": -304,
+                    "y": 52,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1684468669069
+                },
+                {
+                    "name": "24",
+                    "x": -304,
+                    "y": 48,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468578672
+                },
+                {
+                    "name": "11",
+                    "x": -304,
+                    "y": 22,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684468086969
+                },
+                {
+                    "name": "23",
+                    "x": -300,
+                    "y": 46,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1684468527823
+                },
+                {
+                    "name": "13",
+                    "x": -302,
+                    "y": 26,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684468153870
+                },
+                {
+                    "name": "9",
+                    "x": -302,
+                    "y": 18,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684468014373
+                },
+                {
+                    "name": "21",
+                    "x": -306,
+                    "y": 42,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684468439224
+                },
+                {
+                    "name": "8",
+                    "x": -306,
+                    "y": 16,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684467967621
+                },
+                {
+                    "name": "3",
+                    "x": -308,
+                    "y": 6,
+                    "z": -105,
+                    "enabled": false,
+                    "addedAt": 1684467684219
+                },
+                {
+                    "name": "17",
+                    "x": -302,
+                    "y": 34,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468268068
+                },
+                {
+                    "name": "6",
+                    "x": -304,
+                    "y": 12,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684467923522
+                },
+                {
+                    "name": "10",
+                    "x": -300,
+                    "y": 20,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468039518
+                },
+                {
+                    "name": "27",
+                    "x": -306,
+                    "y": 54,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684468744521
+                },
+                {
+                    "name": "5",
+                    "x": -300,
+                    "y": 10,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684467893421
+                },
+                {
+                    "name": "2",
+                    "x": -306,
+                    "y": 4,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1684467661371
+                },
+                {
+                    "name": "20",
+                    "x": -304,
+                    "y": 40,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468390273
+                },
+                {
+                    "name": "15",
+                    "x": -304,
+                    "y": 30,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1684468199723
+                },
+                {
+                    "name": "19",
+                    "x": -302,
+                    "y": 38,
+                    "z": -105,
+                    "enabled": false,
+                    "addedAt": 1684468365369
+                },
+                {
+                    "name": "22",
+                    "x": -302,
+                    "y": 44,
+                    "z": -107,
+                    "enabled": false,
+                    "addedAt": 1684468482424
+                },
+                {
+                    "name": "25",
+                    "x": -308,
+                    "y": 50,
+                    "z": -105,
+                    "enabled": false,
+                    "addedAt": 1684468600668
+                },
+                {
+                    "name": "18",
+                    "x": -300,
+                    "y": 36,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1684468307118
+                },
+                {
+                    "name": "7",
+                    "x": -308,
+                    "y": 14,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1684467940723
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "auction",
+                    "x": -28,
+                    "y": 73,
+                    "z": -82,
+                    "enabled": true,
+                    "color": -16711726,
+                    "addedAt": 1711156215835
+                }
+            ],
+            "island": "hub"
+        },
+        {
+            "name": "lava puzzle mirrorverse part 7",
+            "waypoints": [
+                {
+                    "name": "62",
+                    "x": -205,
+                    "y": 41,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683347272129
+                },
+                {
+                    "name": "66",
+                    "x": -217,
+                    "y": 41,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683347332326
+                },
+                {
+                    "name": "63",
+                    "x": -209,
+                    "y": 42,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683347284677
+                },
+                {
+                    "name": "61",
+                    "x": -205,
+                    "y": 40,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683347247579
+                },
+                {
+                    "name": "64",
+                    "x": -213,
+                    "y": 40,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683347295230
+                },
+                {
+                    "name": "65",
+                    "x": -213,
+                    "y": 40,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683347307281
+                },
+                {
+                    "name": "67",
+                    "x": -221,
+                    "y": 42,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683347345128
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "quest steps",
+            "waypoints": [
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "Npcs",
+            "waypoints": [
+                {
+                    "name": "alchemist",
+                    "x": -137,
+                    "y": 120,
+                    "z": 116,
+                    "enabled": false,
+                    "addedAt": 1683236726819
+                },
+                {
+                    "name": "Helmet 1k",
+                    "x": -151,
+                    "y": 112,
+                    "z": 115,
+                    "enabled": false,
+                    "addedAt": 1683236461720
+                },
+                {
+                    "name": "Altar",
+                    "x": -47,
+                    "y": 116,
+                    "z": 70,
+                    "enabled": false,
+                    "addedAt": 1683235011770
+                },
+                {
+                    "name": "leggings 1k",
+                    "x": -92,
+                    "y": 90,
+                    "z": 106,
+                    "enabled": false,
+                    "addedAt": 1683235241869
+                },
+                {
+                    "name": "Boots 504",
+                    "x": -136,
+                    "y": 88,
+                    "z": 114,
+                    "enabled": false,
+                    "addedAt": 1683235436171
+                },
+                {
+                    "name": "Chestplate 2k",
+                    "x": -138,
+                    "y": 97,
+                    "z": 113,
+                    "enabled": false,
+                    "addedAt": 1683235488169
+                },
+                {
+                    "name": "weapond quest",
+                    "x": -99,
+                    "y": 76,
+                    "z": 154,
+                    "enabled": false,
+                    "addedAt": 1683239269067
+                },
+                {
+                    "name": "plumbers bucket 1k",
+                    "x": -63,
+                    "y": 70,
+                    "z": -78,
+                    "enabled": false,
+                    "addedAt": 1684472834017
+                },
+                {
+                    "name": "dont talk to this guy",
+                    "x": -92,
+                    "y": 99,
+                    "z": 95,
+                    "enabled": false,
+                    "addedAt": 1683235782670
+                },
+                {
+                    "name": "sad jacqielle pet quest",
+                    "x": -121,
+                    "y": 120,
+                    "z": 136,
+                    "enabled": false,
+                    "addedAt": 1683236485717
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "cat souls",
+            "waypoints": [
+                {
+                    "name": "first cat",
+                    "x": -94,
+                    "y": 69,
+                    "z": 113,
+                    "enabled": false,
+                    "addedAt": 1684624854114
+                },
+                {
+                    "name": "",
+                    "x": 153,
+                    "y": 80,
+                    "z": -14,
+                    "enabled": false,
+                    "addedAt": 1684493038358
+                },
+                {
+                    "name": "in fountain leech supreme",
+                    "x": -141,
+                    "y": 45,
+                    "z": 15,
+                    "enabled": false,
+                    "addedAt": 1684624723814
+                },
+                {
+                    "name": "use bazooka for cat",
+                    "x": -29,
+                    "y": 72,
+                    "z": -198,
+                    "enabled": false,
+                    "addedAt": 1684626288918
+                },
+                {
+                    "name": "user water",
+                    "x": -63,
+                    "y": 88,
+                    "z": -81,
+                    "enabled": false,
+                    "addedAt": 1684472699923
+                },
+                {
+                    "name": "book",
+                    "x": 7,
+                    "y": 71,
+                    "z": -15,
+                    "enabled": false,
+                    "addedAt": 1684623490666
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "lava mirrorverse part 4",
+            "waypoints": [
+                {
+                    "name": "31",
+                    "x": -169,
+                    "y": 41,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683346768028
+                },
+                {
+                    "name": "37",
+                    "x": -177,
+                    "y": 38,
+                    "z": -92,
+                    "enabled": false,
+                    "addedAt": 1683346859331
+                },
+                {
+                    "name": "34",
+                    "x": -177,
+                    "y": 39,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346819728
+                },
+                {
+                    "name": "35",
+                    "x": -173,
+                    "y": 40,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346837678
+                },
+                {
+                    "name": "33",
+                    "x": -173,
+                    "y": 42,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346806528
+                },
+                {
+                    "name": "36",
+                    "x": -173,
+                    "y": 40,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683346848878
+                },
+                {
+                    "name": "40",
+                    "x": -181,
+                    "y": 41,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346909429
+                },
+                {
+                    "name": "32",
+                    "x": -173,
+                    "y": 42,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683346796428
+                },
+                {
+                    "name": "38",
+                    "x": -181,
+                    "y": 39,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683346874229
+                },
+                {
+                    "name": "39",
+                    "x": -185,
+                    "y": 40,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346895077
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "Npcs",
+            "waypoints": [
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "glyph",
+            "waypoints": [
+                {
+                    "name": "1",
+                    "x": -57,
+                    "y": 70,
+                    "z": -95,
+                    "enabled": false,
+                    "addedAt": 1683348606280
+                },
+                {
+                    "name": "4",
+                    "x": -50,
+                    "y": 72,
+                    "z": -168,
+                    "enabled": false,
+                    "addedAt": 1684475343471
+                },
+                {
+                    "name": "3",
+                    "x": -29,
+                    "y": 70,
+                    "z": -136,
+                    "enabled": false,
+                    "addedAt": 1684475267823
+                },
+                {
+                    "name": "8",
+                    "x": -57,
+                    "y": 79,
+                    "z": -16,
+                    "enabled": false,
+                    "addedAt": 1684626711769
+                },
+                {
+                    "name": "2",
+                    "x": -76,
+                    "y": 71,
+                    "z": -149,
+                    "enabled": false,
+                    "addedAt": 1684475132970
+                },
+                {
+                    "name": "gluph pad",
+                    "x": -79,
+                    "y": 71,
+                    "z": -111,
+                    "enabled": false,
+                    "addedAt": 1684475155616
+                },
+                {
+                    "name": "7",
+                    "x": -92,
+                    "y": 76,
+                    "z": -85,
+                    "enabled": false,
+                    "addedAt": 1684481403764
+                },
+                {
+                    "name": "5",
+                    "x": -109,
+                    "y": 72,
+                    "z": -101,
+                    "enabled": false,
+                    "addedAt": 1684481062714
+                },
+                {
+                    "name": "6",
+                    "x": -36,
+                    "y": 84,
+                    "z": -93,
+                    "enabled": false,
+                    "addedAt": 1684481168717
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "lava puzzle mirrorverse part 3",
+            "waypoints": [
+                {
+                    "name": "29",
+                    "x": -165,
+                    "y": 40,
+                    "z": -124,
+                    "enabled": false,
+                    "addedAt": 1683346738129
+                },
+                {
+                    "name": "27",
+                    "x": -157,
+                    "y": 38,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683346705930
+                },
+                {
+                    "name": "26",
+                    "x": -161,
+                    "y": 41,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683346695028
+                },
+                {
+                    "name": "28",
+                    "x": -161,
+                    "y": 39,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683346722230
+                },
+                {
+                    "name": "22",
+                    "x": -165,
+                    "y": 39,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683346634529
+                },
+                {
+                    "name": "21",
+                    "x": -161,
+                    "y": 38,
+                    "z": -92,
+                    "enabled": false,
+                    "addedAt": 1683346622079
+                },
+                {
+                    "name": "25",
+                    "x": -165,
+                    "y": 42,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346684128
+                },
+                {
+                    "name": "23",
+                    "x": -165,
+                    "y": 40,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346659479
+                },
+                {
+                    "name": "24",
+                    "x": -165,
+                    "y": 41,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346670779
+                },
+                {
+                    "name": "30",
+                    "x": -169,
+                    "y": 40,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683346751778
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "savespot",
+                    "x": -147,
+                    "y": 31,
+                    "z": 71,
+                    "enabled": false,
+                    "addedAt": 1684492841760
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "souls",
+            "waypoints": [
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "lava puzzle mirrorverse part 2",
+            "waypoints": [
+                {
+                    "name": "13",
+                    "x": -137,
+                    "y": 40,
+                    "z": -124,
+                    "enabled": false,
+                    "addedAt": 1683346498978
+                },
+                {
+                    "name": "16",
+                    "x": -149,
+                    "y": 42,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683346564178
+                },
+                {
+                    "name": "17",
+                    "x": -153,
+                    "y": 41,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346576277
+                },
+                {
+                    "name": "18",
+                    "x": -157,
+                    "y": 40,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346586828
+                },
+                {
+                    "name": "19",
+                    "x": -153,
+                    "y": 39,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346597078
+                },
+                {
+                    "name": "11",
+                    "x": -137,
+                    "y": 39,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683346467029
+                },
+                {
+                    "name": "20",
+                    "x": -157,
+                    "y": 39,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683346608030
+                },
+                {
+                    "name": "15",
+                    "x": -145,
+                    "y": 41,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683346541028
+                },
+                {
+                    "name": "14",
+                    "x": -141,
+                    "y": 40,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683346511027
+                },
+                {
+                    "name": "12",
+                    "x": -133,
+                    "y": 39,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683346478078
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "Lava puzzle mirrorverse part 1",
+            "waypoints": [
+                {
+                    "name": "4",
+                    "x": -137,
+                    "y": 38,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346335479
+                },
+                {
+                    "name": "6",
+                    "x": -137,
+                    "y": 40,
+                    "z": -96,
+                    "enabled": false,
+                    "addedAt": 1683346372277
+                },
+                {
+                    "name": "7",
+                    "x": -141,
+                    "y": 41,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346383428
+                },
+                {
+                    "name": "8",
+                    "x": -145,
+                    "y": 39,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683346402428
+                },
+                {
+                    "name": "1",
+                    "x": -125,
+                    "y": 38,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346274180
+                },
+                {
+                    "name": "3",
+                    "x": -133,
+                    "y": 39,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346324978
+                },
+                {
+                    "name": "5",
+                    "x": -133,
+                    "y": 39,
+                    "z": -100,
+                    "enabled": false,
+                    "addedAt": 1683346353980
+                },
+                {
+                    "name": "9",
+                    "x": -145,
+                    "y": 39,
+                    "z": -109,
+                    "enabled": false,
+                    "addedAt": 1683346415277
+                },
+                {
+                    "name": "10",
+                    "x": -141,
+                    "y": 38,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683346429627
+                },
+                {
+                    "name": "2",
+                    "x": -129,
+                    "y": 38,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346304829
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "lava puzzle mirrorvers part 5",
+            "waypoints": [
+                {
+                    "name": "41",
+                    "x": -185,
+                    "y": 40,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683346926329
+                },
+                {
+                    "name": "42",
+                    "x": -181,
+                    "y": 39,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683346953730
+                },
+                {
+                    "name": "47",
+                    "x": -189,
+                    "y": 42,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683347019328
+                },
+                {
+                    "name": "44",
+                    "x": -181,
+                    "y": 39,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683346984379
+                },
+                {
+                    "name": "46",
+                    "x": -189,
+                    "y": 41,
+                    "z": -120,
+                    "enabled": false,
+                    "addedAt": 1683347008829
+                },
+                {
+                    "name": "48",
+                    "x": -189,
+                    "y": 42,
+                    "z": -112,
+                    "enabled": false,
+                    "addedAt": 1683347032029
+                },
+                {
+                    "name": "50",
+                    "x": -193,
+                    "y": 41,
+                    "z": -104,
+                    "enabled": false,
+                    "addedAt": 1683347061528
+                },
+                {
+                    "name": "43",
+                    "x": -185,
+                    "y": 40,
+                    "z": -116,
+                    "enabled": false,
+                    "addedAt": 1683346970728
+                },
+                {
+                    "name": "45",
+                    "x": -185,
+                    "y": 40,
+                    "z": -124,
+                    "enabled": false,
+                    "addedAt": 1683346998078
+                },
+                {
+                    "name": "49",
+                    "x": -193,
+                    "y": 40,
+                    "z": -108,
+                    "enabled": false,
+                    "addedAt": 1683347046128
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "souls",
+            "waypoints": [
+                {
+                    "name": "parkour",
+                    "x": -70,
+                    "y": 78,
+                    "z": 43,
+                    "enabled": false,
+                    "addedAt": 1684624484867
+                },
+                {
+                    "name": "cake 2",
+                    "x": -95,
+                    "y": 76,
+                    "z": -81,
+                    "enabled": false,
+                    "addedAt": 1684625063566
+                },
+                {
+                    "name": "talk to",
+                    "x": -114,
+                    "y": 69,
+                    "z": 63,
+                    "enabled": false,
+                    "addedAt": 1684624443466
+                },
+                {
+                    "name": "coop soul",
+                    "x": -105,
+                    "y": 78,
+                    "z": -102,
+                    "enabled": false,
+                    "addedAt": 1684473227166
+                },
+                {
+                    "name": "stand on pad 2 people",
+                    "x": -128,
+                    "y": 72,
+                    "z": 79,
+                    "enabled": false,
+                    "addedAt": 1684624427515
+                },
+                {
+                    "name": "point tree",
+                    "x": -110,
+                    "y": 69,
+                    "z": 37,
+                    "enabled": false,
+                    "addedAt": 1684624464366
+                },
+                {
+                    "name": "use string with house roofs",
+                    "x": -88,
+                    "y": 76,
+                    "z": -102,
+                    "enabled": false,
+                    "addedAt": 1684625271116
+                },
+                {
+                    "name": "2k and 8 arrows",
+                    "x": -205,
+                    "y": 75,
+                    "z": 51,
+                    "enabled": false,
+                    "addedAt": 1684624643120
+                },
+                {
+                    "name": "20 bark from dogs",
+                    "x": -14,
+                    "y": 89,
+                    "z": 95,
+                    "enabled": false,
+                    "addedAt": 1684624797017
+                },
+                {
+                    "name": "eat cakes",
+                    "x": -93,
+                    "y": 70,
+                    "z": -79,
+                    "enabled": false,
+                    "addedAt": 1684472769569
+                },
+                {
+                    "name": "spider silk",
+                    "x": -113,
+                    "y": 118,
+                    "z": 126,
+                    "enabled": false,
+                    "addedAt": 1684624289066
+                },
+                {
+                    "name": "follow ghost",
+                    "x": -70,
+                    "y": 75,
+                    "z": 96,
+                    "enabled": false,
+                    "addedAt": 1684624399419
+                },
+                {
+                    "name": "jump into water cave",
+                    "x": -120,
+                    "y": 120,
+                    "z": 135,
+                    "enabled": false,
+                    "addedAt": 1684624313014
+                },
+                {
+                    "name": "click pots",
+                    "x": -57,
+                    "y": 67,
+                    "z": 160,
+                    "enabled": false,
+                    "addedAt": 1684624239417
+                },
+                {
+                    "name": "30 fly 40 spider 60 silverfish",
+                    "x": -35,
+                    "y": 70,
+                    "z": -90,
+                    "enabled": false,
+                    "addedAt": 1684474714223
+                },
+                {
+                    "name": "dolphin mini game",
+                    "x": -67,
+                    "y": 70,
+                    "z": -92,
+                    "enabled": false,
+                    "addedAt": 1684472903768
+                },
+                {
+                    "name": "",
+                    "x": -27,
+                    "y": 71,
+                    "z": 91,
+                    "enabled": false,
+                    "addedAt": 1684624213817
+                },
+                {
+                    "name": "flower pot",
+                    "x": -57,
+                    "y": 70,
+                    "z": -126,
+                    "enabled": false,
+                    "addedAt": 1684625688222
+                },
+                {
+                    "name": "jump on mushrrooms in tree need friend",
+                    "x": -170,
+                    "y": 81,
+                    "z": -27,
+                    "enabled": false,
+                    "addedAt": 1684624545319
+                },
+                {
+                    "name": "click scull",
+                    "x": -144,
+                    "y": 68,
+                    "z": 174,
+                    "enabled": false,
+                    "addedAt": 1684624360916
+                },
+                {
+                    "name": "",
+                    "x": 3,
+                    "y": 68,
+                    "z": -202,
+                    "enabled": false,
+                    "addedAt": 1684623942117
+                },
+                {
+                    "name": "",
+                    "x": -161,
+                    "y": 98,
+                    "z": -74,
+                    "enabled": false,
+                    "addedAt": 1684623651918
+                },
+                {
+                    "name": "jump pad up in sky",
+                    "x": -137,
+                    "y": 67,
+                    "z": 154,
+                    "enabled": false,
+                    "addedAt": 1683236381020
+                },
+                {
+                    "name": "hot dog contest 2 people",
+                    "x": -103,
+                    "y": 72,
+                    "z": -103,
+                    "enabled": false,
+                    "addedAt": 1684473209816
+                }
+            ],
+            "isExpanded": false,
+            "island": ""
+        },
+        {
+            "name": "Shadow Warp Red Test",
+            "waypoints": [
+                {
+                    "name": "Test #1",
+                    "x": 26,
+                    "y": 5,
+                    "z": 52,
+                    "enabled": false,
+                    "addedAt": 1693001963707
+                }
+            ],
+            "island": "dungeon"
+        },
+        {
+            "name": "Shadow Warp Coordinates",
+            "waypoints": [
+                {
+                    "name": "SWARP LOOK",
+                    "x": 24,
+                    "y": 16,
+                    "z": 83,
+                    "enabled": false,
+                    "color": -15991040,
+                    "addedAt": 1692925783801
+                },
+                {
+                    "name": "SWARP STAND",
+                    "x": 24,
+                    "y": 5,
+                    "z": 83,
+                    "enabled": false,
+                    "color": -13893888,
+                    "addedAt": 1679977444122
+                },
+                {
+                    "name": "SWARP STAND",
+                    "x": 83,
+                    "y": 5,
+                    "z": 100,
+                    "enabled": false,
+                    "color": -16738049,
+                    "addedAt": 1686589056915
+                },
+                {
+                    "name": "SWARP LOOK",
+                    "x": 83,
+                    "y": 16,
+                    "z": 100,
+                    "enabled": false,
+                    "color": -16737793,
+                    "addedAt": 1692938521001
+                }
+            ],
+            "island": "dungeon"
+        }
+    ]
+}

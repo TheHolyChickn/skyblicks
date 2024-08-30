@@ -1,0 +1,7 @@
+Entry for alias digicert global root g2 successfully imported.
+Entry for alias r3 (isrg root x1) successfully imported.
+Entry for alias *.minecraft.net (microsoft azure tls issuing ca 06) successfully imported.
+Entry for alias isrg root x1 (dst root ca x3) successfully imported.
+Entry for alias letsencryptisrgx1 successfully imported.
+Entry for alias microsoft azure tls issuing ca 02 (digicert global root g2) successfully imported.
+Import command completed:  6 entries successfully imported, 0 entries failed or cancelled

@@ -1,0 +1,26 @@
+{
+    "default": {
+        "Griffin Burrow Dug": {
+            "state": 0,
+            "name": "Griffin Burrow Dug"
+        },
+        "Hype Text": {
+            "state": 0,
+            "name": "Hype Text"
+        },
+        "Griffin Burrow Start": {
+            "state": 0,
+            "name": "Griffin Burrow Start"
+        },
+        "Useless Bazaar Text": {
+            "state": 0,
+            "name": "Useless Bazaar Text"
+        },
+        "Pristine": {
+            "state": 0,
+            "name": "Pristine"
+        }
+    },
+    "filter": {
+    }
+}
