@@ -9,6 +9,6 @@ cd skyblicks
 ```
 if ur mc directory is not at `$HOME/.minecraft`, then you should run
 ```bash
-./linux install.sh /path/to/minecraft/directory/.minecraft
+./linux_install.sh /path/to/minecraft/directory/.minecraft
 ```
 this will overwrite ur current mods & config folder, so make sure to save those
